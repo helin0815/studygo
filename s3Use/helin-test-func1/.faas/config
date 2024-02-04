@@ -1,4 +1,0 @@
-version: v1alpha1
-functions:
-    - fdId: 17633
-      name: helin-test-func1
